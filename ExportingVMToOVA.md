@@ -2,7 +2,7 @@
 
 Download the ovf utility from the vmware
 
-https://www.vmware.com/support/developer/ovf/
+    https://www.vmware.com/support/developer/ovf/
 
 For Mac you can run the following from the command line
 
